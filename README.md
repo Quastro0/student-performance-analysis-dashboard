@@ -142,8 +142,3 @@ student-performance-analysis/
 
 Before making this repository public, confirm that your school, instructor, and the dataset's terms allow the workbook to be shared. Student marks can be sensitive even when records use IDs instead of names. If you do not have permission to publish the row-level data, make the repository private or replace the workbook with approved anonymized or aggregated data.
 
-## Next steps
-
-- Add the editable `.pbix` file, if available.
-- Add a short explanation or screenshots of the Power BI data model and measures.
-- If the dashboard is rebuilt, verify each visual's filter context and ranking logic against the source records.
